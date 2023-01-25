@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1665648956 source:d:\imad\tdopencv\systemeavancerc++\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<chrono>
+	<cstring>
+	"conio.h"
+	<windows.h>
+
